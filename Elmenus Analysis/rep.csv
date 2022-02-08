@@ -1,0 +1,1182 @@
+,name,res_type
+0,The Coffee Maker,bakeries
+1,Dr Diet,bakeries
+2,Cheese Mads,bakeries
+3,Aboullaban Sweets,bakeries
+4,Il Mulino,bakeries
+5,Beano's Cafe,bakeries
+6,Mandarine Koueider,bakeries
+7,Diet House,bakeries
+8,Abo El Ezz El Soury,bakeries
+9,NOLA Cupcakes,bakeries
+10,DUKES,bakeries
+11,Exception Patissiere,bakeries
+12,TBS The Bakery Shop,bakeries
+13,Auntie Anne's,bakeries
+14,El Abd,bakeries
+15,Il Mulino,coffee-time
+16,Caribou Coffee,coffee-time
+17,The Coffee Maker,coffee-time
+18,Ted's,coffee-time
+19,Gaby's,coffee-time
+20,Nutopia,coffee-time
+21,La Poire Cafe,coffee-time
+22,Mori Sushi & Grill,coffee-time
+23,House of Cocoa,coffee-time
+24,dipndip,coffee-time
+25,Wafflicious,coffee-time
+26,Espresso Lab,coffee-time
+27,TBS The Bakery Shop,coffee-time
+28,Abu Auf,coffee-time
+29,Beano's Cafe,coffee-time
+30,Cilantro,coffee-time
+31,Cinnabon Bakery Cafe,coffee-time
+32,McDonald's,coffee-time
+33,Abou El Sid,breakfast
+34,Malmo,breakfast
+35,Cheese Mads,breakfast
+36,Caribou Coffee,breakfast
+37,Al Rehan,breakfast
+38,Espresso Lab,breakfast
+39,Kinwa,breakfast
+40,El Genany,breakfast
+41,Sushi Way,breakfast
+42,Gaby's,breakfast
+43,Papai,breakfast
+44,Ted's,breakfast
+45,Paul,breakfast
+46,Marlyn's,breakfast
+47,Mandarine Koueider,breakfast
+48,Zooba,breakfast
+49,Costa Coffee,breakfast
+50,La Poire Cafe,breakfast
+51,Ne3ma,breakfast
+52,Beano's Cafe,breakfast
+53,Pastaweesy,breakfast
+54,TBS The Bakery Shop,breakfast
+55,Cinnabon Bakery Cafe,breakfast
+56,Arabiata El Shabrawy,breakfast
+57,Ibn AlSham,breakfast
+58,Auntie Anne's,breakfast
+59,GAD,breakfast
+60,El Abd,breakfast
+61,McDonald's,breakfast
+62,Dr Diet,cupcakes
+63,DUKES,cupcakes
+64,El Abd,cupcakes
+65,NOLA Cupcakes,cupcakes
+66,Frumentum,snacks
+67,Munch & Shake,snacks
+68,Mandarine Koueider,snacks
+69,Arby's,snacks
+70,Arabiata El Shabrawy,snacks
+71,TGI Friday's,snacks
+72,Stomach,snacks
+73,Daddy's Burger,snacks
+74,dipndip,snacks
+75,Burger King,snacks
+76,Kukuruza Gourmet Popcorn,snacks
+77,Batates & Zalabya,snacks
+78,PEKING,snacks
+79,McDonald's,snacks
+80,Cilantro,donuts
+81,NOLA Cupcakes,donuts
+82,Nutopia,waffles
+83,Waffle Maker,waffles
+84,Best Way,waffles
+85,Wafflicious,waffles
+86,dipndip,waffles
+87,Amo Hosny,desserts
+88,El Balakona,desserts
+89,Abou El Sid,desserts
+90,Burger Box,desserts
+91,Chicken Safeer,desserts
+92,Shawerma Farouk,desserts
+93,Palermo,desserts
+94,Kinwa,desserts
+95,Malmo,desserts
+96,Red Elephant,desserts
+97,Crusto Desserts,desserts
+98,Express,desserts
+99,Tree Top,desserts
+100,Freddy's,desserts
+101,Exception Patissiere,desserts
+102,Espresso Lab,desserts
+103,The Coffee Maker,desserts
+104,Aziz,desserts
+105,Dr Diet,desserts
+106,Waffle Maker,desserts
+107,La Poire Cafe,desserts
+108,Zesty Waffles,desserts
+109,Kebda w Kaboria Eskandarany,desserts
+110,Nutopia,desserts
+111,Baladena,desserts
+112,Abu Auf,desserts
+113,Lychee,desserts
+114,Om Hassan,desserts
+115,Ted's,desserts
+116,Roastery,desserts
+117,Costa Coffee,desserts
+118,Chicken & Ribs,desserts
+119,Mega Sandwiches,desserts
+120,Zack's Fried Chicken,desserts
+121,Fuddruckers,desserts
+122,Estoda Cheese King,desserts
+123,Wienerwald,desserts
+124,Daddy's Burger,desserts
+125,Legleisah,desserts
+126,Skalans,desserts
+127,Tom and Basal,desserts
+128,Sale Sucre,desserts
+129,La Pomme Pastries,desserts
+130,Beano's Cafe,desserts
+131,EL-Zaiem,desserts
+132,Asian Corner,desserts
+133,Gaby's,desserts
+134,My El Qalioby,desserts
+135,Chicken FilA,desserts
+136,El Haty,desserts
+137,Double D's Pizza,desserts
+138,Crepeton,desserts
+139,Sultana,desserts
+140,Mori Sushi & Grill,desserts
+141,Saber,desserts
+142,Kukuruza Gourmet Popcorn,desserts
+143,Elmalky,desserts
+144,Abou Shakra,desserts
+145,Best Way,desserts
+146,Cook Door,desserts
+147,Il Mulino,desserts
+148,Auntie Anne's,desserts
+149,Prego,desserts
+150,DUKES,desserts
+151,Batates & Zalabya,desserts
+152,Ibn AlSham,desserts
+153,Abo Mazen El Soury,desserts
+154,Diet House,desserts
+155,Cold Stone Creamery,desserts
+156,Bazooka,desserts
+157,PEKING,desserts
+158,ElDahan,desserts
+159,Majesty,desserts
+160,Grand Kunafa,desserts
+161,dipndip,desserts
+162,Tseppas,desserts
+163,Maharaja,desserts
+164,Wafflicious,desserts
+165,Koshary El Tahrir,desserts
+166,Pastaweesy,desserts
+167,NOLA Cupcakes,desserts
+168,La Poire,desserts
+169,House of Cocoa,desserts
+170,Koshary Sayed Hanafy,desserts
+171,Cinnabon Bakery Cafe,desserts
+172,El Abd,desserts
+173,Flame,salads
+174,Chicken Safeer,salads
+175,El Diwan,salads
+176,Espresso Lab,salads
+177,Palermo,salads
+178,Zona Kitchen,salads
+179,Malmo,salads
+180,Armando Restaurant & Cafe,salads
+181,Lahm and A'geen,salads
+182,Mercato Italiano,salads
+183,Kinwa,salads
+184,Express,salads
+185,Freddy's,salads
+186,Farkha w Nos,salads
+187,Welatain,salads
+188,Haty El Ma'mon,salads
+189,Aziz,salads
+190,Alaska Sushi,salads
+191,Marlyn's,salads
+192,Sabai Sabai,salads
+193,La Poire Cafe,salads
+194,Shrimp House,salads
+195,Gaby's,salads
+196,Chicken & Ribs,salads
+197,Butcher's Burger,salads
+198,Om Hassan,salads
+199,Country Hills,salads
+200,Legleisah,salads
+201,Ted's,salads
+202,Il Mulino,salads
+203,Mori Sushi & Grill,salads
+204,Lychee,salads
+205,Salad Fiesta,salads
+206,Zooba,salads
+207,Fuddruckers,salads
+208,Sushi Way,salads
+209,Roastery,salads
+210,Paul,salads
+211,Anas Chicken,salads
+212,Kanary,salads
+213,Diet House,salads
+214,TGI Friday's,salads
+215,Asian Corner,salads
+216,Abou Shakra,salads
+217,Garnell Sushi & Poke,salads
+218,Cilantro,salads
+219,Beano's Cafe,salads
+220,Mega Sandwiches,salads
+221,Ibn AlSham,salads
+222,Pastaweesy,salads
+223,Arabiata El Shabrawy,salads
+224,Cook Door,salads
+225,Abo Youssef El Soury,salads
+226,Bazooka,salads
+227,Malmo,pancakes
+228,La Poire Cafe,pancakes
+229,Nutopia,pancakes
+230,Samiha,pancakes
+231,Beano's Cafe,pancakes
+232,dipndip,pancakes
+233,Saber,family-favorites
+234,DUKES,family-favorites
+235,TGI Friday's,family-favorites
+236,El Abd,family-favorites
+237,Prego,family-favorites
+238,KFC,tacos-&-quesadillas
+239,El Balakona,tacos-&-quesadillas
+240,Amo Hosny,tacos-&-quesadillas
+241,Foods Jar,tacos-&-quesadillas
+242,City Crepe Sheraton,tacos-&-quesadillas
+243,Sushi Star,tacos-&-quesadillas
+244,Flame,tacos-&-quesadillas
+245,King Dragon,tacos-&-quesadillas
+246,Hassouna,tacos-&-quesadillas
+247,Abou El Sid,tacos-&-quesadillas
+248,Legleisah,tacos-&-quesadillas
+249,Pizza Land,tacos-&-quesadillas
+250,Ne3ma,tacos-&-quesadillas
+251,Arby's,tacos-&-quesadillas
+252,Papa John's Pizza,tacos-&-quesadillas
+253,Hardee's,tacos-&-quesadillas
+254,TGI Friday's,tacos-&-quesadillas
+255,Elmalky,tacos-&-quesadillas
+256,Hawawshi El Hara2,tacos-&-quesadillas
+257,Il Mulino,tacos-&-quesadillas
+258,Pizza Hum,tacos-&-quesadillas
+259,Boom Zone,tacos-&-quesadillas
+260,El Diwan,tacos-&-quesadillas
+261,Toro Sushi,tacos-&-quesadillas
+262,Chef Potato,tacos-&-quesadillas
+263,Just Chicken,tacos-&-quesadillas
+264,Coco Di Papa,tacos-&-quesadillas
+265,Happy Pizza,tacos-&-quesadillas
+266,Noodles Street,tacos-&-quesadillas
+267,Crepe House,tacos-&-quesadillas
+268,Sushi Man,tacos-&-quesadillas
+269,Burger Bros,tacos-&-quesadillas
+270,Al Rehan,tacos-&-quesadillas
+271,Freddy's,tacos-&-quesadillas
+272,Al Rehan,tacos-&-quesadillas
+273,Freddy's,tacos-&-quesadillas
+274,El Dokkan,tacos-&-quesadillas
+275,Yassin El Sharqawy,tacos-&-quesadillas
+276,Gambari Afandi,tacos-&-quesadillas
+277,Kebda & Sogo2,tacos-&-quesadillas
+278,3al Fa7m,tacos-&-quesadillas
+279,Tati,tacos-&-quesadillas
+280,Chicken Safeer,tacos-&-quesadillas
+281,La Pizza Alforno,tacos-&-quesadillas
+282,Zesty Waffles,tacos-&-quesadillas
+283,Dr Diet,tacos-&-quesadillas
+284,Tiko's Fried Chicken and More,tacos-&-quesadillas
+285,Garnell Sushi & Poke,tacos-&-quesadillas
+286,Red Elephant,tacos-&-quesadillas
+287,City Crepe,tacos-&-quesadillas
+288,Zooba,tacos-&-quesadillas
+289,Anas Chicken,tacos-&-quesadillas
+290,Pizza Master,tacos-&-quesadillas
+291,Shrimp House,tacos-&-quesadillas
+292,Max Burgers,tacos-&-quesadillas
+293,Alaska Sushi,tacos-&-quesadillas
+294,Popcity,tacos-&-quesadillas
+295,Burdogz,tacos-&-quesadillas
+296,Abo El Ezz El Soury,tacos-&-quesadillas
+297,Red Rooster,tacos-&-quesadillas
+298,Buffalo Burger,tacos-&-quesadillas
+299,Samiha,tacos-&-quesadillas
+300,Kbda w Mokh El Sharkawy,tacos-&-quesadillas
+301,Asmak Anwar El Hussin,tacos-&-quesadillas
+302,Aleppo's Shawerma,tacos-&-quesadillas
+303,Best Way,tacos-&-quesadillas
+304,Wok & Cook,tacos-&-quesadillas
+305,El Sweesy Fresh Fish,tacos-&-quesadillas
+306,Domino's Pizza,tacos-&-quesadillas
+307,Chicken & Ribs,tacos-&-quesadillas
+308,Baladena,tacos-&-quesadillas
+309,My El Qalioby,tacos-&-quesadillas
+310,Bazooka,tacos-&-quesadillas
+311,Roastery,tacos-&-quesadillas
+312,ElDahan,tacos-&-quesadillas
+313,Spicy Crepe El Sefarat,tacos-&-quesadillas
+314,Diet House,tacos-&-quesadillas
+315,Crepeton,tacos-&-quesadillas
+316,Chunky's,tacos-&-quesadillas
+317,Costa Coffee,tacos-&-quesadillas
+318,Mega Sandwiches,tacos-&-quesadillas
+319,Wienerwald,tacos-&-quesadillas
+320,Munch & Shake,tacos-&-quesadillas
+321,Abo Malek Grills,tacos-&-quesadillas
+322,Pizza Hut,tacos-&-quesadillas
+323,Smiley's Grill,tacos-&-quesadillas
+324,Auntie Anne's,tacos-&-quesadillas
+325,Burger King,tacos-&-quesadillas
+326,PEKING,tacos-&-quesadillas
+327,Haty El Sheikh,tacos-&-quesadillas
+328,Broccar,tacos-&-quesadillas
+329,Chicken Tikka,tacos-&-quesadillas
+330,Prego,tacos-&-quesadillas
+331,Abo Youssef El Soury,tacos-&-quesadillas
+332,Majesty,tacos-&-quesadillas
+333,Ibn AlSham,tacos-&-quesadillas
+334,GAD,tacos-&-quesadillas
+335,Abou Anas El Soury,tacos-&-quesadillas
+336,Wafflicious,tacos-&-quesadillas
+337,Abo Mazen El Soury,tacos-&-quesadillas
+338,Butcher's Burger,tacos-&-quesadillas
+339,Tom and Basal,tacos-&-quesadillas
+340,Arabiata El Shabrawy,tacos-&-quesadillas
+341,El Genany,tacos-&-quesadillas
+342,DUKES,tacos-&-quesadillas
+343,House of Cocoa,tacos-&-quesadillas
+344,Espresso Lab,tacos-&-quesadillas
+345,Caribou Coffee,tacos-&-quesadillas
+346,La Casetta,tacos-&-quesadillas
+347,Country Hills,tacos-&-quesadillas
+348,El Haty,tacos-&-quesadillas
+349,Beano's Cafe,tacos-&-quesadillas
+350,Sultan Ayub,tacos-&-quesadillas
+351,Mori Sushi & Grill,tacos-&-quesadillas
+352,El Abd,tacos-&-quesadillas
+353,El Menoufy El Asly,tacos-&-quesadillas
+354,La Poire,tacos-&-quesadillas
+355,Kebdt El Falah,tacos-&-quesadillas
+356,Pizza El Sultan,tacos-&-quesadillas
+357,Cilantro,tacos-&-quesadillas
+358,Sale Sucre,tacos-&-quesadillas
+359,Burger Box,tacos-&-quesadillas
+360,Steak Out,tacos-&-quesadillas
+361,Sobia Al Rahmani,tacos-&-quesadillas
+362,Abo Hamza El Nashmy,tacos-&-quesadillas
+363,Malmo,tacos-&-quesadillas
+364,Armando Restaurant & Cafe,tacos-&-quesadillas
+365,I-Sushi,tacos-&-quesadillas
+366,Lilo's,tacos-&-quesadillas
+367,Gu Chkn,tacos-&-quesadillas
+368,Gu Chkn,tacos-&-quesadillas
+369,Al Mansour Al Demashqi,tacos-&-quesadillas
+370,Coy,tacos-&-quesadillas
+371,Pasta Mads,tacos-&-quesadillas
+372,Shawerma Farouk,tacos-&-quesadillas
+373,Abo Hamza,tacos-&-quesadillas
+374,Waffle Maker,tacos-&-quesadillas
+375,Mercato Italiano,tacos-&-quesadillas
+376,Express,tacos-&-quesadillas
+377,Zona Kitchen,tacos-&-quesadillas
+378,Hadramot,tacos-&-quesadillas
+379,Kebdet Zalata,tacos-&-quesadillas
+380,Lahm and A'geen,tacos-&-quesadillas
+381,Crusto Desserts,tacos-&-quesadillas
+382,Haty El Basha,tacos-&-quesadillas
+383,Crepianko,tacos-&-quesadillas
+384,Chocolate Palace,tacos-&-quesadillas
+385,Palermo,tacos-&-quesadillas
+386,Foul Tank Ebad El Rahman,tacos-&-quesadillas
+387,El Qobesy Mix,tacos-&-quesadillas
+388,Fathy Grills,tacos-&-quesadillas
+389,3cooks,tacos-&-quesadillas
+390,Baklwiz,tacos-&-quesadillas
+391,Frumentum,tacos-&-quesadillas
+392,Farkha w Nos,tacos-&-quesadillas
+393,Pizza Ria,tacos-&-quesadillas
+394,Taco's,tacos-&-quesadillas
+395,Tree Top,tacos-&-quesadillas
+396,Keto Mads,tacos-&-quesadillas
+397,The King,tacos-&-quesadillas
+398,Burger Court,tacos-&-quesadillas
+399,MR. Doodz Sandwich,tacos-&-quesadillas
+400,Wow Pastry & Bakery,tacos-&-quesadillas
+401,Mashwyat El Basha,tacos-&-quesadillas
+402,The Coffee Maker,tacos-&-quesadillas
+403,Kin Wa Sushi,tacos-&-quesadillas
+404,Bakery Khan,tacos-&-quesadillas
+405,Kinwa,tacos-&-quesadillas
+406,Crepeco,tacos-&-quesadillas
+407,Cheese Mads,tacos-&-quesadillas
+408,Caruso's,tacos-&-quesadillas
+409,Al Rifai Roastery & Nuts,tacos-&-quesadillas
+410,Hadramout El Basha,tacos-&-quesadillas
+411,Haty El Baraka,tacos-&-quesadillas
+412,Kantan,tacos-&-quesadillas
+413,Pizza Bab El Khalk,tacos-&-quesadillas
+414,Kilo Kebda,tacos-&-quesadillas
+415,3al Sofra,tacos-&-quesadillas
+416,Aboullaban Sweets,tacos-&-quesadillas
+417,Crispy Meals,tacos-&-quesadillas
+418,Hunger Station,tacos-&-quesadillas
+419,Arous El Sham,tacos-&-quesadillas
+420,UKO,tacos-&-quesadillas
+421,El Dabbagh,tacos-&-quesadillas
+422,The Donuteria,tacos-&-quesadillas
+423,Sushi Way,tacos-&-quesadillas
+424,Welatain,tacos-&-quesadillas
+425,Crepe Spicy,tacos-&-quesadillas
+426,Haty El Ma'mon,tacos-&-quesadillas
+427,Double D's Pizza,tacos-&-quesadillas
+428,City Crepe,tacos-&-quesadillas
+429,Belal,tacos-&-quesadillas
+430,Calories,tacos-&-quesadillas
+431,Aziz,tacos-&-quesadillas
+432,The Burger,tacos-&-quesadillas
+433,Sultana,tacos-&-quesadillas
+434,Marlyn's,tacos-&-quesadillas
+435,Hadramoot,tacos-&-quesadillas
+436,Saber,tacos-&-quesadillas
+437,La Poire Cafe,tacos-&-quesadillas
+438,Sabai Sabai,tacos-&-quesadillas
+439,Konafa Habiba El Kuwait,tacos-&-quesadillas
+440,3am Bashandy,tacos-&-quesadillas
+441,Mince,tacos-&-quesadillas
+442,Shawerma El Reem,tacos-&-quesadillas
+443,FISH BRGR,tacos-&-quesadillas
+444,Estoda Cheese King,tacos-&-quesadillas
+445,Just Frakh,tacos-&-quesadillas
+446,City Crepe Ahmed Fakhry,tacos-&-quesadillas
+447,Ama Sushi,tacos-&-quesadillas
+448,Fuddruckers,tacos-&-quesadillas
+449,Abu Auf,tacos-&-quesadillas
+450,Ahsan Nas,tacos-&-quesadillas
+451,Nutopia,tacos-&-quesadillas
+452,Maharaja,tacos-&-quesadillas
+453,Om Hassan,tacos-&-quesadillas
+454,Ted's,tacos-&-quesadillas
+455,Lychee,tacos-&-quesadillas
+456,Gaby's,tacos-&-quesadillas
+457,Inferno Chicken Rockets,tacos-&-quesadillas
+458,Paul,tacos-&-quesadillas
+459,Kukuruza Gourmet Popcorn,tacos-&-quesadillas
+460,Asian Corner,tacos-&-quesadillas
+461,Papai,tacos-&-quesadillas
+462,Batates & Zalabya,tacos-&-quesadillas
+463,Spicy Crepe Nasr Road,tacos-&-quesadillas
+464,Panda House,tacos-&-quesadillas
+465,Nisantasi,tacos-&-quesadillas
+466,Cave,tacos-&-quesadillas
+467,Cook Door,tacos-&-quesadillas
+468,Cold Stone Creamery,tacos-&-quesadillas
+469,NOLA Cupcakes,tacos-&-quesadillas
+470,Crispy Fried Chicken,tacos-&-quesadillas
+471,EL-Zaiem,tacos-&-quesadillas
+472,Salad Fiesta,tacos-&-quesadillas
+473,Kanary,tacos-&-quesadillas
+474,dipndip,tacos-&-quesadillas
+475,Bites Burger,tacos-&-quesadillas
+476,Qasr El Mandy,tacos-&-quesadillas
+477,Pastaweesy,tacos-&-quesadillas
+478,Grand Kunafa,tacos-&-quesadillas
+479,Awlad Ta2ta2,tacos-&-quesadillas
+480,Daddy's Burger,tacos-&-quesadillas
+481,Cinnabon Bakery Cafe,tacos-&-quesadillas
+482,The Crepe Company,tacos-&-quesadillas
+483,Mandarine Koueider,tacos-&-quesadillas
+484,Crispy,tacos-&-quesadillas
+485,Koshary Sayed Hanafy,tacos-&-quesadillas
+486,Chicken FilA,tacos-&-quesadillas
+487,Abou Shakra,tacos-&-quesadillas
+488,La Pomme Pastries,tacos-&-quesadillas
+489,Koshary El Tahrir,tacos-&-quesadillas
+490,Exception Patissiere,tacos-&-quesadillas
+491,Anas Al Demashky,tacos-&-quesadillas
+492,Zack's Fried Chicken,tacos-&-quesadillas
+493,Tseppas,tacos-&-quesadillas
+494,Stomach,tacos-&-quesadillas
+495,Kebda w Kaboria Eskandarany,tacos-&-quesadillas
+496,Lokma Haneya,tacos-&-quesadillas
+497,Bab Sharqy,tacos-&-quesadillas
+498,Kansas Fried Chicken,tacos-&-quesadillas
+499,Doner Konner,tacos-&-quesadillas
+500,Sushi Star,buy-one-get-one
+501,Shrimp House,buy-one-get-one
+502,Pizza Hum,buy-one-get-one
+503,Baladena,buy-one-get-one
+504,Legleisah,buy-one-get-one
+505,Toro Sushi,buy-one-get-one
+506,Fuddruckers,buy-one-get-one
+507,Saber,vegetarian
+508,Max Burgers,vegetarian
+509,Arabiata El Shabrawy,vegetarian
+510,Beano's Cafe,vegetarian
+511,dipndip,vegetarian
+512,Domino's Pizza,vegetarian
+513,PEKING,vegetarian
+514,Frumentum,match-night
+515,Skalans,match-night
+516,Il Mulino,match-night
+517,Stomach,match-night
+518,TGI Friday's,match-night
+519,Abou El Sid,fatta
+520,Shawerma Farouk,fatta
+521,Lahm and A'geen,fatta
+522,Skalans,fatta
+523,El Genany,fatta
+524,Ahsan Nas,fatta
+525,Om Hassan,fatta
+526,Shawerma El Reem,fatta
+527,Doner Konner,fatta
+528,Anas Chicken,fatta
+529,7amza,fatta
+530,Abo El Ezz El Soury,fatta
+531,El Haty,fatta
+532,Majesty,fatta
+533,Belal,fatta
+534,Bab Sharqy,fatta
+535,Aleppo's Shawerma,fatta
+536,Abo Youssef El Soury,fatta
+537,Mega Sandwiches,fatta
+538,ElDahan,fatta
+539,Anas Al Demashky,fatta
+540,Ibn AlSham,fatta
+541,Abou Anas El Soury,fatta
+542,Abo Mazen El Soury,fatta
+543,Abou El Sid,vegan
+544,Max Burgers,vegan
+545,Munch & Shake,vegan
+546,PEKING,vegan
+547,City Crepe,vegan
+548,Koshary Sayed Hanafy,vegan
+549,Chicken Safeer,hawawshi
+550,Zona Kitchen,hawawshi
+551,Haty El Ma'mon,hawawshi
+552,Fathy Grills,hawawshi
+553,Ahsan Nas,hawawshi
+554,Lokma Haneya,hawawshi
+555,Om Hassan,hawawshi
+556,EL-Zaiem,hawawshi
+557,Shawerma El Reem,hawawshi
+558,Mega Sandwiches,hawawshi
+559,Abou Shakra,hawawshi
+560,Abo Youssef El Soury,hawawshi
+561,Qasr El Mandy,hawawshi
+562,Haty El Sheikh,hawawshi
+563,Arabiata El Shabrawy,hawawshi
+564,Abo Mazen El Soury,hawawshi
+565,El Haty,hawawshi
+566,7amza,hawawshi
+567,Skalans,hawawshi
+568,Zooba,hawawshi
+569,ElDahan,hawawshi
+570,Abou El Sid,kebda-w-sogo2
+571,Haty El Ma'mon,kebda-w-sogo2
+572,Skalans,kebda-w-sogo2
+573,Papai,kebda-w-sogo2
+574,Ne3ma,kebda-w-sogo2
+575,Kebda w Kaboria Eskandarany,kebda-w-sogo2
+576,Haty El Sheikh,kebda-w-sogo2
+577,Arabiata El Shabrawy,kebda-w-sogo2
+578,Kbda w Mokh El Sharkawy,kebda-w-sogo2
+579,El Haty,kebda-w-sogo2
+580,ElDahan,kebda-w-sogo2
+581,Sabai Sabai,chinese
+582,Alaska Sushi,chinese
+583,Wok & Cook,chinese
+584,I-Sushi,chinese
+585,Sushi Way,chinese
+586,Ama Sushi,chinese
+587,PEKING,chinese
+588,Garnell Sushi & Poke,chinese
+589,Red Elephant,chinese
+590,Panda House,chinese
+591,Wafflicious,healthy-food
+592,Beano's Cafe,healthy-food
+593,Abo Youssef El Soury,healthy-food
+594,PEKING,healthy-food
+595,Awlad Ta2ta2,healthy-food
+596,Pastaweesy,healthy-food
+597,NOLA Cupcakes,healthy-food
+598,ElDahan,healthy-food
+599,Prego,healthy-food
+600,Qasr El Mandy,healthy-food
+601,Diet House,healthy-food
+602,Ibn AlSham,healthy-food
+603,Wienerwald,wings
+604,Munch & Shake,wings
+605,Gaby's,wings
+606,Bites Burger,wings
+607,Pizza Master,wings
+608,Butcher's Burger,wings
+609,TGI Friday's,wings
+610,Chicken & Ribs,wings
+611,Pizza Hut,wings
+612,Papa John's Pizza,wings
+613,Flame,soup
+614,Abou El Sid,soup
+615,Kinwa,soup
+616,Freddy's,soup
+617,Red Elephant,soup
+618,Alaska Sushi,soup
+619,Ahsan Nas,soup
+620,Beano's Cafe,soup
+621,Shrimp House,soup
+622,Wok & Cook,soup
+623,Asian Corner,soup
+624,Ted's,soup
+625,Chicken Tikka,soup
+626,Asmak Anwar El Hussin,soup
+627,Chicken & Ribs,soup
+628,Sushi Way,soup
+629,TGI Friday's,soup
+630,Abou Shakra,soup
+631,Mega Sandwiches,soup
+632,PEKING,soup
+633,Mori Sushi & Grill,soup
+634,Om Hassan,soup
+635,Awlad Ta2ta2,soup
+636,ElDahan,soup
+637,Flame,meals
+638,Abou El Sid,meals
+639,Palermo,meals
+640,Just Chicken,meals
+641,Armando Restaurant & Cafe,meals
+642,Freddy's,meals
+643,Keto Mads,meals
+644,Tati,meals
+645,Caruso's,meals
+646,Baklwiz,meals
+647,Shawerma Farouk,meals
+648,Dr Diet,meals
+649,Taco's,meals
+650,Alaska Sushi,meals
+651,La Poire Cafe,meals
+652,Haty El Ma'mon,meals
+653,Gambari Afandi,meals
+654,Skalans,meals
+655,Express,meals
+656,Lokma Haneya,meals
+657,Stomach,meals
+658,Butcher's Burger,meals
+659,Chicken Safeer,meals
+660,El Sayad,meals
+661,Roastery,meals
+662,Ted's,meals
+663,Ahsan Nas,meals
+664,Papai,meals
+665,Mega Sandwiches,meals
+666,Paul,meals
+667,Smiley's Grill,meals
+668,Country Hills,meals
+669,Gaby's,meals
+670,Sultan Ayub,meals
+671,Il Mulino,meals
+672,Fuddruckers,meals
+673,GAD,meals
+674,GAD,meals
+675,Chicken & Ribs,meals
+676,Om Hassan,meals
+677,Hardee's,meals
+678,Doner Konner,meals
+679,Abo Youssef El Soury,meals
+680,Wienerwald,meals
+681,Bab Sharqy,meals
+682,Chunky's,meals
+683,Shawerma El Reem,meals
+684,Red Elephant,meals
+685,Legleisah,meals
+686,Double D's Pizza,meals
+687,Anas Chicken,meals
+688,Chicken FilA,meals
+689,Abo El Ezz El Soury,meals
+690,Arabiata El Shabrawy,meals
+691,Crispy Fried Chicken,meals
+692,Crispy,meals
+693,Burger King,meals
+694,Haty El Sheikh,meals
+695,Prego,meals
+696,Majesty,meals
+697,Panda House,meals
+698,KFC,meals
+699,Abou Shakra,meals
+700,El Haty,meals
+701,Abou Anas El Soury,meals
+702,Cook Door,meals
+703,Ibn AlSham,meals
+704,Qasr El Mandy,meals
+705,Anas Al Demashky,meals
+706,ElDahan,meals
+707,Kansas Fried Chicken,meals
+708,Bazooka,meals
+709,Abo Mazen El Soury,meals
+710,Amo Hosny,crepe
+711,City Crepe Sheraton,crepe
+712,Waffle Maker,crepe
+713,Keto Mads,crepe
+714,Sushi Way,crepe
+715,Crepe Al Omda,crepe
+716,Pizza Land,crepe
+717,My El Qalioby,crepe
+718,Crepeco,crepe
+719,Baladena,crepe
+720,Best Way,crepe
+721,Abo Mazen El Soury,crepe
+722,Majesty,crepe
+723,7amza,crepe
+724,Spicy Crepe Nasr Road,crepe
+725,Abou Anas El Soury,crepe
+726,Crepeton,crepe
+727,dipndip,crepe
+728,The Crepe Company,crepe
+729,City Crepe,crepe
+730,Il Mulino,juices
+731,Kinwa,juices
+732,Red Elephant,juices
+733,Sushi Way,juices
+734,Freddy's,juices
+735,La Poire Cafe,juices
+736,The Coffee Maker,juices
+737,Beano's Cafe,juices
+738,Max Burgers,juices
+739,dipndip,juices
+740,Ted's,juices
+741,Wafflicious,juices
+742,Salad Fiesta,juices
+743,Ibn AlSham,juices
+744,TBS The Bakery Shop,juices
+745,Cilantro,juices
+746,Auntie Anne's,juices
+747,Lychee,juices
+748,Smiley's Grill,juices
+749,Mori Sushi & Grill,juices
+750,Calories,noodles
+751,Alaska Sushi,noodles
+752,Sushi Way,noodles
+753,Freddy's,noodles
+754,Wok & Cook,noodles
+755,Gaby's,noodles
+756,Noodles Street,noodles
+757,Sabai Sabai,noodles
+758,Panda House,noodles
+759,Red Elephant,noodles
+760,Asian Corner,noodles
+761,PEKING,noodles
+762,Abou El Sid,sushi
+763,Baklwiz,sushi
+764,Sushi Way,sushi
+765,Asian Corner,sushi
+766,PEKING,sushi
+767,Asmak Anwar El Hussin,sushi
+768,Mori Sushi & Grill,sushi
+769,Garnell Sushi & Poke,sushi
+770,Abou El Sid,seafood
+771,Red Elephant,seafood
+772,Gambari Afandi,seafood
+773,Marlyn's,seafood
+774,Shrimp House,seafood
+775,Yassin El Sharqawy,seafood
+776,Roastery,seafood
+777,Kebda w Kaboria Eskandarany,seafood
+778,Double D's Pizza,seafood
+779,El Sayad,seafood
+780,Asian Corner,seafood
+781,TGI Friday's,seafood
+782,Baklwiz,seafood
+783,Kanary,seafood
+784,Arabiata El Shabrawy,seafood
+785,Chunky's,seafood
+786,Mega Sandwiches,seafood
+787,Pastaweesy,seafood
+788,Garnell Sushi & Poke,seafood
+789,PEKING,seafood
+790,Asmak Anwar El Hussin,seafood
+791,Cook Door,seafood
+792,Smiley's Grill,seafood
+793,Mori Sushi & Grill,seafood
+794,Awlad Ta2ta2,seafood
+795,Abou El Sid,fries
+796,Coco Di Papa,fries
+797,Caruso's,fries
+798,Al Rehan,fries
+799,Shrimp House,fries
+800,Haty El Ma'mon,fries
+801,El Genany,fries
+802,La Poire Cafe,fries
+803,Burdogz,fries
+804,The Burger,fries
+805,Aziz,fries
+806,Samiha,fries
+807,Ted's,fries
+808,Anas Chicken,fries
+809,Munch & Shake,fries
+810,Om Hassan,fries
+811,TGI Friday's,fries
+812,Estoda Cheese King,fries
+813,Spicy Crepe Nasr Road,fries
+814,Kansas Fried Chicken,fries
+815,Skalans,fries
+816,Chicken & Ribs,fries
+817,Crepeton,fries
+818,Double D's Pizza,fries
+819,Paul,fries
+820,Shawerma El Reem,fries
+821,My El Qalioby,fries
+822,Doner Konner,fries
+823,Bites Burger,fries
+824,Ne3ma,fries
+825,The Crepe Company,fries
+826,Hardee's,fries
+827,Butcher's Burger,fries
+828,Abo El Ezz El Soury,fries
+829,Daddy's Burger,fries
+830,Abo Mazen El Soury,fries
+831,Abo Youssef El Soury,fries
+832,Max Burgers,fries
+833,Ibn AlSham,fries
+834,Zooba,fries
+835,Papai,fries
+836,7amza,fries
+837,Arby's,fries
+838,Aleppo's Shawerma,fries
+839,ElDahan,fries
+840,Batates & Zalabya,fries
+841,Arabiata El Shabrawy,fries
+842,Smiley's Grill,fries
+843,Burger King,fries
+844,Pastaweesy,fries
+845,City Crepe,fries
+846,Prego,fries
+847,Cook Door,fries
+848,Chicken FilA,fries
+849,Bazooka,fries
+850,Abou Anas El Soury,fries
+851,Shawerma Farouk,shawerma
+852,Ahsan Nas,shawerma
+853,Papai,shawerma
+854,Mega Sandwiches,shawerma
+855,Shawerma El Reem,shawerma
+856,7amza,shawerma
+857,Smiley's Grill,shawerma
+858,Broccar,shawerma
+859,Majesty,shawerma
+860,GAD,shawerma
+861,Bab Sharqy,shawerma
+862,Belal,shawerma
+863,Sultan Ayub,shawerma
+864,Anas Chicken,shawerma
+865,Abo Youssef El Soury,shawerma
+866,Ne3ma,shawerma
+867,Aleppo's Shawerma,shawerma
+868,Ibn AlSham,shawerma
+869,Anas Al Demashky,shawerma
+870,Abou Anas El Soury,shawerma
+871,Abo Mazen El Soury,shawerma
+872,Abou El Sid,koshary
+873,EL-Zaiem,koshary
+874,Zooba,koshary
+875,Tom and Basal,koshary
+876,Koshary El Tahrir,koshary
+877,Koshary Sayed Hanafy,koshary
+878,Amo Hosny,sandwiches
+879,Hassouna,sandwiches
+880,KFC,sandwiches
+881,Burger Box,sandwiches
+882,Bakery Khan,sandwiches
+883,Coco Di Papa,sandwiches
+884,The Coffee Maker,sandwiches
+885,Kinwa,sandwiches
+886,Malmo,sandwiches
+887,Burger Bros,sandwiches
+888,Al Rehan,sandwiches
+889,Tati,sandwiches
+890,Chicken Safeer,sandwiches
+891,Caribou Coffee,sandwiches
+892,Gambari Afandi,sandwiches
+893,Sushi Way,sandwiches
+894,Shawerma Farouk,sandwiches
+895,Foul Tank Ebad El Rahman,sandwiches
+896,Haty El Ma'mon,sandwiches
+897,Lahm and A'geen,sandwiches
+898,Zona Kitchen,sandwiches
+899,Al Mansour Al Demashqi,sandwiches
+900,The Burger,sandwiches
+901,Tree Top,sandwiches
+902,Burdogz,sandwiches
+903,Il Mulino,sandwiches
+904,Shrimp House,sandwiches
+905,Espresso Lab,sandwiches
+906,Ted's,sandwiches
+907,Ahsan Nas,sandwiches
+908,Mince,sandwiches
+909,Express,sandwiches
+910,Wienerwald,sandwiches
+911,Lokma Haneya,sandwiches
+912,Best Way,sandwiches
+913,Baladena,sandwiches
+914,Red Rooster,sandwiches
+915,Country Hills,sandwiches
+916,Mandarine Koueider,sandwiches
+917,Crispy Meals,sandwiches
+918,Stomach,sandwiches
+919,Roastery,sandwiches
+920,Munch & Shake,sandwiches
+921,Kebda w Kaboria Eskandarany,sandwiches
+922,EL-Zaiem,sandwiches
+923,FISH BRGR,sandwiches
+924,FISH BRGR,sandwiches
+925,Zooba,sandwiches
+926,Fuddruckers,sandwiches
+927,Paul,sandwiches
+928,Lychee,sandwiches
+929,La Poire Cafe,sandwiches
+930,Papai,sandwiches
+931,Sultan Ayub,sandwiches
+932,Exception Patissiere,sandwiches
+933,Costa Coffee,sandwiches
+934,Daddy's Burger,sandwiches
+935,DUKES,sandwiches
+936,Shawerma El Reem,sandwiches
+937,Baklwiz,sandwiches
+938,Belal,sandwiches
+939,Chicken & Ribs,sandwiches
+940,Aziz,sandwiches
+941,Kanary,sandwiches
+942,Cave,sandwiches
+943,Bites Burger,sandwiches
+944,Welatain,sandwiches
+945,Abo El Ezz El Soury,sandwiches
+946,Abou Shakra,sandwiches
+947,Smiley's Grill,sandwiches
+948,Haty El Sheikh,sandwiches
+949,Beano's Cafe,sandwiches
+950,Crispy,sandwiches
+951,Doner Konner,sandwiches
+952,Skalans,sandwiches
+953,Kansas Fried Chicken,sandwiches
+954,Crispy Fried Chicken,sandwiches
+955,Majesty,sandwiches
+956,El Haty,sandwiches
+957,7amza,sandwiches
+958,Hunger Station,sandwiches
+959,Aleppo's Shawerma,sandwiches
+960,Butcher's Burger,sandwiches
+961,Bab Sharqy,sandwiches
+962,Bazooka,sandwiches
+963,Pastaweesy,sandwiches
+964,Anas Chicken,sandwiches
+965,Max Burgers,sandwiches
+966,Chunky's,sandwiches
+967,Arby's,sandwiches
+968,Hardee's,sandwiches
+969,Ne3ma,sandwiches
+970,Mega Sandwiches,sandwiches
+971,GAD,sandwiches
+972,Arabiata El Shabrawy,sandwiches
+973,Ibn AlSham,sandwiches
+974,Burger King,sandwiches
+975,Abo Youssef El Soury,sandwiches
+976,TBS The Bakery Shop,sandwiches
+977,Awlad Ta2ta2,sandwiches
+978,ElDahan,sandwiches
+979,Abo Mazen El Soury,sandwiches
+980,Abou Anas El Soury,sandwiches
+981,Cook Door,sandwiches
+982,Chicken FilA,sandwiches
+983,Zack's Fried Chicken,sandwiches
+984,Abou El Sid,grills
+985,Hadramout El Basha,grills
+986,Haty El Baraka,grills
+987,El Diwan,grills
+988,Express,grills
+989,Haty El Ma'mon,grills
+990,Chicken Safeer,grills
+991,Ahsan Nas,grills
+992,Abo Malek Grills,grills
+993,Hadramoot,grills
+994,Wienerwald,grills
+995,Papai,grills
+996,Smiley's Grill,grills
+997,Chunky's,grills
+998,GAD,grills
+999,Abo El Ezz El Soury,grills
+1000,Arabiata El Shabrawy,grills
+1001,Sultan Ayub,grills
+1002,Chicken Tikka,grills
+1003,Aleppo's Shawerma,grills
+1004,Skalans,grills
+1005,Legleisah,grills
+1006,Bab Sharqy,grills
+1007,Abou Shakra,grills
+1008,Majesty,grills
+1009,7amza,grills
+1010,Haty El Sheikh,grills
+1011,Abou Anas El Soury,grills
+1012,Abo Youssef El Soury,grills
+1013,Prego,grills
+1014,El Haty,grills
+1015,Qasr El Mandy,grills
+1016,Ibn AlSham,grills
+1017,Abo Mazen El Soury,grills
+1018,Cook Door,grills
+1019,ElDahan,grills
+1020,Amo Hosny,grilled-chicken
+1021,Crispy Meals,grilled-chicken
+1022,Chicken Safeer,grilled-chicken
+1023,Kinwa,grilled-chicken
+1024,Fathy Grills,grilled-chicken
+1025,Express,grilled-chicken
+1026,Hadramoot,grilled-chicken
+1027,La Poire Cafe,grilled-chicken
+1028,Ahsan Nas,grilled-chicken
+1029,Roastery,grilled-chicken
+1030,Haty El Ma'mon,grilled-chicken
+1031,Anas Chicken,grilled-chicken
+1032,Mega Sandwiches,grilled-chicken
+1033,Legleisah,grilled-chicken
+1034,Fuddruckers,grilled-chicken
+1035,Chicken Tikka,grilled-chicken
+1036,Chicken & Ribs,grilled-chicken
+1037,Chunky's,grilled-chicken
+1038,Papai,grilled-chicken
+1039,Wienerwald,grilled-chicken
+1040,Sultan Ayub,grilled-chicken
+1041,Majesty,grilled-chicken
+1042,Prego,grilled-chicken
+1043,El Haty,grilled-chicken
+1044,Abo El Ezz El Soury,grilled-chicken
+1045,Haty El Sheikh,grilled-chicken
+1046,Abo Youssef El Soury,grilled-chicken
+1047,Abo Mazen El Soury,grilled-chicken
+1048,Abou Anas El Soury,grilled-chicken
+1049,Abou Shakra,grilled-chicken
+1050,Aleppo's Shawerma,grilled-chicken
+1051,Qasr El Mandy,grilled-chicken
+1052,7amza,grilled-chicken
+1053,Ibn AlSham,grilled-chicken
+1054,ElDahan,grilled-chicken
+1055,Coco Di Papa,fried-chicken
+1056,Caruso's,fried-chicken
+1057,Crispy Meals,fried-chicken
+1058,Belal,fried-chicken
+1059,Ahsan Nas,fried-chicken
+1060,Red Rooster,fried-chicken
+1061,Arby's,fried-chicken
+1062,Wienerwald,fried-chicken
+1063,Max Burgers,fried-chicken
+1064,Il Mulino,fried-chicken
+1065,Chunky's,fried-chicken
+1066,Fuddruckers,fried-chicken
+1067,Sushi Way,fried-chicken
+1068,TGI Friday's,fried-chicken
+1069,Chicken & Ribs,fried-chicken
+1070,Aleppo's Shawerma,fried-chicken
+1071,Bab Sharqy,fried-chicken
+1072,Abo El Ezz El Soury,fried-chicken
+1073,Welatain,fried-chicken
+1074,KFC,fried-chicken
+1075,Abo Mazen El Soury,fried-chicken
+1076,Country Hills,fried-chicken
+1077,GAD,fried-chicken
+1078,Stomach,fried-chicken
+1079,Daddy's Burger,fried-chicken
+1080,Hardee's,fried-chicken
+1081,ElDahan,fried-chicken
+1082,Bazooka,fried-chicken
+1083,Anas Chicken,fried-chicken
+1084,Ibn AlSham,fried-chicken
+1085,Abo Youssef El Soury,fried-chicken
+1086,Lahm and A'geen,pizza
+1087,Kinwa,pizza
+1088,Armando Restaurant & Cafe,pizza
+1089,Caruso's,pizza
+1090,El Genany,pizza
+1091,Mercato Italiano,pizza
+1092,Marlyn's,pizza
+1093,Samiha,pizza
+1094,Best Way,pizza
+1095,Country Hills,pizza
+1096,Ted's,pizza
+1097,EL-Zaiem,pizza
+1098,Dr Diet,pizza
+1099,La Pomme Pastries,pizza
+1100,Tree Top,pizza
+1101,Abo El Ezz El Soury,pizza
+1102,Sultan Ayub,pizza
+1103,Estoda Cheese King,pizza
+1104,Pizza Hut,pizza
+1105,Pizza Land,pizza
+1106,Baladena,pizza
+1107,Bab Sharqy,pizza
+1108,7amza,pizza
+1109,Express,pizza
+1110,Il Mulino,pizza
+1111,Cave,pizza
+1112,Anas Chicken,pizza
+1113,TBS The Bakery Shop,pizza
+1114,Anas Al Demashky,pizza
+1115,Diet House,pizza
+1116,Auntie Anne's,pizza
+1117,My El Qalioby,pizza
+1118,Double D's Pizza,pizza
+1119,Domino's Pizza,pizza
+1120,Ibn AlSham,pizza
+1121,Pizza El Sultan,pizza
+1122,Pizza Master,pizza
+1123,Majesty,pizza
+1124,Papa John's Pizza,pizza
+1125,Pasta Mads,pasta
+1126,Mercato Italiano,pasta
+1127,Malmo,pasta
+1128,El Sayad,pasta
+1129,Kinwa,pasta
+1130,Armando Restaurant & Cafe,pasta
+1131,Coco Di Papa,pasta
+1132,Caruso's,pasta
+1133,Shrimp House,pasta
+1134,La Poire Cafe,pasta
+1135,Tree Top,pasta
+1136,Crispy Meals,pasta
+1137,Sushi Way,pasta
+1138,Palermo,pasta
+1139,Lokma Haneya,pasta
+1140,Ted's,pasta
+1141,Il Mulino,pasta
+1142,Skalans,pasta
+1143,Gaby's,pasta
+1144,Bab Sharqy,pasta
+1145,Freddy's,pasta
+1146,Roastery,pasta
+1147,Kebda w Kaboria Eskandarany,pasta
+1148,Baladena,pasta
+1149,Papai,pasta
+1150,Cave,pasta
+1151,My El Qalioby,pasta
+1152,Abou Shakra,pasta
+1153,Mega Sandwiches,pasta
+1154,Legleisah,pasta
+1155,EL-Zaiem,pasta
+1156,TGI Friday's,pasta
+1157,Tom and Basal,pasta
+1158,Estoda Cheese King,pasta
+1159,Zack's Fried Chicken,pasta
+1160,Country Hills,pasta
+1161,Chicken & Ribs,pasta
+1162,Majesty,pasta
+1163,Best Way,pasta
+1164,Abo Mazen El Soury,pasta
+1165,7amza,pasta
+1166,Awlad Ta2ta2,pasta
+1167,ElDahan,pasta
+1168,Pastaweesy,pasta
+1169,Buffalo Burger,burgers
+1170,Fuddruckers,burgers
+1171,TGI Friday's,burgers
+1172,Ibn AlSham,burgers
+1173,Cook Door,burgers
+1174,Bites Burger,burgers
+1175,Diet House,burgers
+1176,Max Burgers,burgers
+1177,Butcher's Burger,burgers
+1178,Hardee's,burgers
+1179,Burger King,burgers
+1180,Bazooka,burgers
